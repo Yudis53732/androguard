@@ -66,7 +66,7 @@ In alphabetical order
 You are using Androguard and are not listed here? Just create a [ticket](https://github.com/androguard/androguard/issues) or send us a [pull request](https://github.com/androguard/androguard/pulls) with your project!
 
 ## Licenses
-
+ http://www.apache.org/licenses/LICENSE-2.0
 ### Androguard
 
 Copyright (C) 2012 - 2024, Anthony Desnos (desnos at t0t0.fr)
@@ -75,7 +75,7 @@ All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
-
+ http://www.apache.org/licenses/LICENSE-2.0
      http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
